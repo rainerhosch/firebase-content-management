@@ -36,8 +36,8 @@ A modern, production-ready Admin Dashboard for managing Firebase Firestore data.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/firebase-cms.git
-    cd firebase-cms
+    git clone https://github.com/rainerhosch/firebase-content-management.git
+    cd firebase-content-management
     ```
 
 2.  **Install dependencies:**
